@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋 I'm Abhinand B
 
-<!--
-**abhinand2511/abhinand2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Bangalore, India  
+💼 Full Stack Developer | Java | MERN  
+📧 abhinand25112001@gmail.com  
 
-Here are some ideas to get you started:
+🔗 LinkedIn: https://www.linkedin.com/in/abhinand-b-909bb5219/  
+🧠 LeetCode:  https://leetcode.com/u/Abhi_-25/
+✍️ Medium: abhinand25112001
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+Full Stack Developer with strong expertise in **Java** and the **MERN stack**.  
+Skilled in designing and developing **scalable web applications** and **RESTful APIs**.
+
+I focus on:
+- Clean and maintainable code
+- Object-oriented programming
+- Database design and optimization
+- Writing reliable, testable backend services
+
+---
+
+## 🛠️ Skills
+
+### **Programming Languages**
+Java, JavaScript, Python, Dart, Kotlin, Go, Rust, SQL
+
+### **Frontend Technologies**
+HTML, CSS, Tailwind CSS, React, Flutter
+
+### **Backend Technologies**
+Node.js, Express.js, Next.js, Spring Boot, Hibernate, Ktor
+
+### **Databases**
+PostgreSQL, MySQL, MongoDB, Redis, DynamoDB
+
+### **ORM & Data Access**
+Prisma
+
+### **Testing**
+Jest, Supertest
+
+### **DevOps & Cloud**
+Docker, Kubernetes
+
+### **Tools & Platforms**
+Git, GitHub, Postman, Swagger
+
+---
+
+## 📜 Certifications
+
+- **AWS Certified Cloud Practitioner**
+- Web Developer Bootcamp 2024 (Udemy)
+
+---
+
