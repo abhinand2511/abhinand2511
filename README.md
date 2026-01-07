@@ -6,7 +6,7 @@
 
 🔗 LinkedIn: https://www.linkedin.com/in/abhinand-b-909bb5219/  
 🧠 LeetCode:  https://leetcode.com/u/Abhi_-25/
-✍️ Medium: abhinand25112001
+✍️ Medium: https://medium.com/@abhinand25112001
 
 ---
 
@@ -54,7 +54,7 @@ Git, GitHub, Postman, Swagger
 ## 📜 Certifications
 
 - **AWS Certified Cloud Practitioner**
-- Web Developer Bootcamp 2024 (Udemy)
+- **Web Developer Bootcamp 2024 (Udemy)**
 
 ---
 
